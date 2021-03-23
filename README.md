@@ -1,2 +1,2 @@
-# Searching-1GB-wikiveristy-pages
+# Searching-1GB-wikiversity-pages
 Multi-processing power
